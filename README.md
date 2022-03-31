@@ -7,7 +7,7 @@ _________________________________________________
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolovratgas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kolovratgas/kolovratgas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
